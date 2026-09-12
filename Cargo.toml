@@ -1,0 +1,13 @@
+[package]
+name = "kobo-pomodoro"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.85.1"
+license = "AGPL-3.0-only"
+publish = false
+
+[dependencies]
+kobo-sdk = { path = "../../cobalt/crates/kobo-sdk" }
+
+[dev-dependencies]
+kobo-ui = { path = "../../cobalt/crates/kobo-ui" }

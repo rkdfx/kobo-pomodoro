@@ -1,0 +1,11 @@
+{
+  "id": "pomodoro",
+  "display_name": "Pomodoro",
+  "short_label": "Pomodoro",
+  "summary": "Focus timer with customizable work and break intervals.",
+  "page_description": "A high-contrast Pomodoro technique timer designed for Kobo e-ink screens.",
+  "version": "0.1.0",
+  "release_notes": "Initial release of Pomodoro for Cobalt.",
+  "glyph": "clock",
+  "capabilities": []
+}
